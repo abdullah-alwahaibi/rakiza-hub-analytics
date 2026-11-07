@@ -1,0 +1,121 @@
+station_id,operator,corridor,heavy_trucks_per_day,grid_capacity_kva,is_viable
+S-2068,National B,Riyadh city,13,630,False
+S-2046,National B,Remote spur,75,250,False
+S-2107,National B,Hail area,34,250,False
+S-2039,National A,Abha area,109,250,False
+S-2101,Independent,Riyadh city,123,160,False
+S-2072,Independent,Tabuk area,127,800,False
+S-2103,Independent,Dammam to Jubail,146,800,False
+S-2010,National B,Riyadh city,11,250,False
+S-2048,National B,Dammam to Riyadh,110,630,False
+S-2094,Regional,Riyadh to Qassim,27,800,False
+S-2017,National B,Tabuk area,102,160,False
+S-2060,Qafila,Jeddah to Makkah,86,160,False
+S-2089,Regional,Riyadh to Jeddah,115,630,False
+S-2087,Independent,Dammam to Riyadh,98,250,False
+S-2084,Qafila,Dammam city,64,250,False
+S-2043,National B,Jeddah to Makkah,62,160,False
+S-2109,Regional,Riyadh city,130,160,False
+S-2019,Independent,Jeddah to Makkah,15,250,False
+S-2012,Qafila,Riyadh city,65,250,False
+S-2023,Independent,Jeddah to Makkah,143,160,False
+S-2009,Qafila,Jeddah to Makkah,71,400,False
+S-2070,Regional,Jeddah to Makkah,139,250,False
+S-2076,Regional,Jeddah city,145,400,False
+S-2024,National B,Dammam to Jubail,305,1500,True
+S-2091,National B,Jeddah to Makkah,155,630,False
+S-2040,Qafila,Dammam city,109,250,False
+S-2057,National A,Madinah area,102,160,False
+S-2096,Independent,Abha area,71,800,False
+S-2088,Regional,Dammam city,114,160,False
+S-2022,Independent,Hail area,159,400,False
+S-2006,National A,Riyadh to Qassim,232,2000,True
+S-2073,National A,Remote spur,33,160,False
+S-2095,Regional,Dammam city,117,630,False
+S-2077,Independent,Dammam to Jubail,43,630,False
+S-2044,Independent,Makkah area,119,250,False
+S-2064,Independent,Tabuk area,75,400,False
+S-2118,Regional,Riyadh to Qassim,42,630,False
+S-2007,Independent,Madinah area,36,800,False
+S-2080,Regional,Dammam to Riyadh,35,250,False
+S-2071,Independent,Secondary road,33,160,False
+S-2090,Regional,Jeddah to Makkah,389,2000,True
+S-2117,Independent,Riyadh to Jeddah,150,630,False
+S-2098,National A,Madinah area,36,800,False
+S-2054,Qafila,Secondary road,61,630,False
+S-2106,Qafila,Madinah area,60,160,False
+S-2082,National B,Jeddah to Makkah,354,2000,True
+S-2011,National A,Jeddah city,53,160,False
+S-2063,Qafila,Remote spur,131,800,False
+S-2052,Independent,Jeddah to Makkah,45,160,False
+S-2059,Qafila,Riyadh to Qassim,186,2000,True
+S-2067,Independent,Jeddah to Makkah,9,800,False
+S-2086,National A,Riyadh city,101,160,False
+S-2074,National A,Dammam to Jubail,70,400,False
+S-2116,National B,Jeddah city,152,630,False
+S-2032,Independent,Abha area,59,250,False
+S-2097,Qafila,Riyadh to Qassim,45,800,False
+S-2081,Regional,Riyadh to Qassim,195,1000,True
+S-2065,Regional,Dammam to Jubail,130,160,False
+S-2015,Independent,Dammam to Jubail,116,400,False
+S-2018,National A,Jeddah to Makkah,24,400,False
+S-2110,Regional,Tabuk area,78,250,False
+S-2112,National B,Jeddah to Makkah,25,630,False
+S-2033,Independent,Dammam to Jubail,507,1000,True
+S-2014,National A,Tabuk area,37,800,False
+S-2113,Independent,Dammam to Jubail,503,1500,True
+S-2104,Independent,Abha area,59,160,False
+S-2001,Independent,Dammam to Jubail,499,1500,True
+S-2056,Regional,Dammam to Jubail,153,400,False
+S-2042,Independent,Jeddah city,75,250,False
+S-2021,National A,Makkah area,96,400,False
+S-2047,Regional,Hail area,93,630,False
+S-2061,Independent,Dammam to Riyadh,513,1500,True
+S-2031,Independent,Dammam to Jubail,76,160,False
+S-2062,Independent,Riyadh to Qassim,137,160,False
+S-2013,Qafila,Madinah area,24,400,False
+S-2093,Qafila,Secondary road,88,160,False
+S-2058,Qafila,Riyadh to Qassim,19,160,False
+S-2034,Regional,Dammam to Riyadh,107,250,False
+S-2003,Qafila,Riyadh city,36,160,False
+S-2049,Independent,Abha area,18,800,False
+S-2028,Qafila,Hail area,120,630,False
+S-2005,Independent,Remote spur,144,800,False
+S-2079,Independent,Jeddah to Makkah,341,1500,True
+S-2078,National A,Dammam city,21,630,False
+S-2051,Qafila,Secondary road,90,400,False
+S-2092,Independent,Jeddah to Makkah,156,250,False
+S-2075,Independent,Hail area,130,160,False
+S-2045,National A,Riyadh to Jeddah,127,800,False
+S-2004,Independent,Tabuk area,119,400,False
+S-2016,Qafila,Riyadh to Qassim,11,800,False
+S-2083,Regional,Makkah area,77,250,False
+S-2053,National B,Makkah area,12,160,False
+S-2036,Independent,Riyadh to Qassim,345,1250,True
+S-2069,Qafila,Jeddah to Makkah,113,160,False
+S-2055,National A,Riyadh to Qassim,425,1250,True
+S-2114,National B,Riyadh to Qassim,76,160,False
+S-2030,Regional,Jeddah to Makkah,356,1000,True
+S-2026,Independent,Riyadh city,8,630,False
+S-2100,Independent,Riyadh to Jeddah,139,400,False
+S-2119,Independent,Tabuk area,133,630,False
+S-2002,Regional,Madinah area,64,250,False
+S-2099,Qafila,Abha area,125,800,False
+S-2115,Regional,Riyadh to Jeddah,119,160,False
+S-2050,National A,Hail area,154,800,False
+S-2037,National A,Riyadh city,53,250,False
+S-2041,Independent,Riyadh city,12,160,False
+S-2038,Regional,Riyadh to Jeddah,159,630,False
+S-2105,Regional,Tabuk area,156,800,False
+S-2020,Qafila,Riyadh to Qassim,74,160,False
+S-2085,Regional,Hail area,143,250,False
+S-2066,Independent,Dammam to Riyadh,449,2000,True
+S-2008,National B,Riyadh city,152,630,False
+S-2025,National A,Dammam to Riyadh,119,630,False
+S-2035,Regional,Jeddah to Makkah,507,1250,True
+S-2120,National A,Riyadh to Qassim,221,1250,True
+S-2027,Independent,Dammam to Jubail,41,250,False
+S-2029,Qafila,Madinah area,77,800,False
+S-2102,Regional,Makkah area,142,250,False
+S-2111,Qafila,Jeddah to Makkah,99,630,False
+S-2108,Independent,Dammam to Riyadh,32,160,False

@@ -1,0 +1,21 @@
+truck_id,corridor,annual_km,above_low_threshold,above_high_threshold,payback_years
+RK-1001,Riyadh to Qassim,134881,False,False,5.2956733289767595
+RK-1002,Riyadh to Jeddah,120971,False,False,5.904602874124494
+RK-1003,Dammam to Jubail,122143,False,False,5.8479463766709046
+RK-1004,Dammam to Jubail,121020,False,False,5.9022121491134865
+RK-1005,Riyadh to Jeddah,117733,False,False,6.06699663039007
+RK-1006,Dammam to Riyadh,140123,True,False,5.097562243783777
+RK-1007,Dammam to Riyadh,116411,False,False,6.13589535598624
+RK-1008,Dammam to Jubail,125708,False,False,5.682102286932528
+RK-1009,Riyadh to Jeddah,124502,False,False,5.737142489965737
+RK-1010,Dammam to Jubail,125784,False,False,5.678669101679977
+RK-1011,Jeddah to Makkah,104962,False,False,6.805183916900537
+RK-1012,Jeddah to Makkah,101820,False,False,7.015180851362348
+RK-1013,Riyadh to Qassim,116338,False,False,6.139745519827693
+RK-1014,Riyadh to Qassim,124781,False,False,5.724314713664054
+RK-1015,Dammam to Riyadh,118583,False,False,6.023508549165683
+RK-1016,Riyadh to Jeddah,128394,False,False,5.563232816842797
+RK-1017,Jeddah to Makkah,111840,False,False,6.386674841610463
+RK-1018,Jeddah to Makkah,124911,False,False,5.71835718460115
+RK-1019,Riyadh to Qassim,112760,False,False,6.334566462271321
+RK-1020,Other long-haul routes,115398,False,False,6.189758178527481

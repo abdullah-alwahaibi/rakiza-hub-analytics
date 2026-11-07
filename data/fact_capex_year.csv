@@ -1,0 +1,6 @@
+year_no,cumulative_hubs,new_hubs,capex_low_m,capex_high_m,capex_mid_m,capex_in_year_mid_m,capital_now_m,vs_capital_now,gap_m
+1,8,8,32,48,40,40,120,Within,-80
+2,12,4,48,72,60,20,120,Within,-60
+3,20,8,80,120,100,40,120,Within,-20
+4,32,12,128,192,160,60,120,Exceeds,40
+5,45,13,180,270,225,65,120,Exceeds,105

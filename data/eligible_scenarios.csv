@@ -1,0 +1,6 @@
+scenario,eligible_share,eligible_pool_m,hubs_supported_at_full_capture,plan_y5_charging_rev_m,plan_revenue_vs_eligible_pool
+Point estimate: share of km driven by trucks above the low threshold,0.05816493798626271,58.36967856797436,15.205576631227984,163,2.7925457874533004
+Low end: 95% CI lower bound on the share of trucks,0.008881219432873143,8.912481325276858,2.3217434306763667,163,18.288958377698094
+High end: 95% CI upper bound on the share of trucks,0.23613589351256678,236.96709185773105,61.73104534276032,163,0.6878592243426822
+High threshold: 95% CI upper bound on the share of trucks,0.16113012549493322,161.6973035366754,42.122910393048876,163,1.0080563895305101
+Ceiling: every truck electrifies,1.0,1003.5200000000001,261.4216941969268,163,0.1624282525510204

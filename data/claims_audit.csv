@@ -1,0 +1,9 @@
+claim_no,claim,test,observed,benchmark,verdict,evidence,Verdict Colour
+1,Leasing revenue follows fleet size and the list price,Year-5 plan leasing revenue / (average fleet x list price),1.0909090909090908,1.0,Overstated,v_plan_leasing_audit,#E76F51
+2,Charging revenue comes from Rakiza's own fleet,Share of Year-5 charging revenue Rakiza's own trucks could supply (max spend at $/km x km per year),0.3401226993865031,1.0,Needs third-party trucks,v_plan_charging_audit,#E76F51
+3,Hubs can reach the utilization the plan needs,Year-5 plan-implied utilization vs the best sampled corridor,0.8136760774487858,0.85875,Stretch: needs top-corridor performance,v_plan_implied_utilization,#E76F51
+4,There is enough electrifiable demand,Year-5 plan charging revenue / electrifiable pool (point estimate),2.7925457874533004,1.0,Exceeds the electrifiable pool,v_eligible_demand_scenarios,#E76F51
+5,The fleet can grow to the planned size,Plan Year-5 trucks / electrifiable trucks (point estimate),1.2,1.0,Exceeds the electrifiable fleet (wide interval),v_market_funnel,#E76F51
+6,The first-wave corridors can host the plan's hubs,Hubs Tier 1+2 pools can support at 100% capture / plan Year-5 hubs,0.5900142403750084,1.0,Needs corridors beyond Tier 1+2,v_demand_cap_summary,#E76F51
+7,$120M funds the hub build,Plan years whose cumulative hub build cost fits the capital now / 5,0.6,1.0,Funded only through Year 3,v_capital_capacity,#E76F51
+8,Rakiza can build hubs on its own sites,Share of viable sites that Qafila owns,0.058823529411764705,1.0,Needs site partners,v_site_partnership,#E76F51
