@@ -2,7 +2,7 @@
 
 An analysis and interactive dashboard that tests a charging-hub business plan against hub-level data.
 
-**Live dashboard:** open `index.html` in any browser (no install, works offline).
+**Live dashboard:** open `https://abdullah-alwahaibi.github.io/rakiza-hub-analytics/` in any browser (no install, works offline).
 
 ## Headline findings
 - Break-even utilization is **60.1%**; a 12% return needs **73.8%**; the sample average is **60.9%**.
